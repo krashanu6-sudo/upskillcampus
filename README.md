@@ -305,61 +305,67 @@ The following screenshots demonstrate the working of the NovaBank Banking Inform
 
 ### Main Menu
 
-*(Add Screenshot Here)*
+![Main Menu](docs/Screenshots/main-menu.png)
 
 ---
 
 ### Customer Registration
 
-*(Add Screenshot Here)*
+![Registration](docs/Screenshots/registration.png)
 
 ---
 
 ### Customer Login
 
-*(Add Screenshot Here)*
+![Login](docs/Screenshots/login.png)
 
 ---
 
 ### Customer Dashboard
 
-*(Add Screenshot Here)*
+![Dashboard](docs/Screenshots/dashboard.png)
 
 ---
 
 ### Deposit Money
 
-*(Add Screenshot Here)*
+![Deposit](docs/Screenshots/deposit.png)
+
 
 ---
 
 ### Withdraw Money
 
-*(Add Screenshot Here)*
+![Withdraw](docs/Screenshots/withdraw.png)
+
 
 ---
 
 ### Fund Transfer
 
-*(Add Screenshot Here)*
+![Transfer](docs/Screenshots/transfer.png)
+
 
 ---
 
 ### Mini Statement
 
-*(Add Screenshot Here)*
+![Mini Statement](docs/Screenshots/mini-statement.png)
+
 
 ---
 
 ### Show Customers
 
-*(Add Screenshot Here)*
+![Show Customers](docs/Screenshots/show-customers.png)
+
 
 ---
 
 ### Show Accounts
 
-*(Add Screenshot Here)*
+![Show Accounts](docs/Screenshots/show-accounts.png)
+
 
 ---
 
