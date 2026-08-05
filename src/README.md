@@ -1,39 +1,47 @@
 # 🏦 NovaBank - Banking Information System
 
-## 📌 Project Overview
-
-NovaBank is a console-based Banking Information System developed using Core Java. The project demonstrates the implementation of Object-Oriented Programming (OOP), File Handling, Serialization, Collections Framework, and Exception Handling.
-
-It allows customers to register, log in, perform banking operations, and store data permanently using Java Serialization.
+A console-based Banking Information System developed using **Core Java** that simulates the basic functionalities of a real-world banking application. The project demonstrates Object-Oriented Programming (OOP), Java Collections Framework, File Handling, Serialization, and Exception Handling.
 
 ---
 
-## 🚀 Features
+## 📌 Project Overview
 
-- Customer Registration
-- Secure Customer Login
-- Account Management
-- Deposit Money
-- Withdraw Money
-- Fund Transfer
-- View Customer Profile
-- Update Profile
-- Change Password
-- Mini Statement
-- Persistent Data Storage using Serialization
-- Exception Handling
-- Menu Driven Console Interface
+NovaBank allows users to register, log in securely, manage their bank accounts, perform banking transactions, and maintain transaction history with persistent data storage.
+
+This project was developed as part of a **Java Development Internship** to gain practical experience in Core Java application development.
+
+---
+
+## ✨ Features
+
+- ✅ Customer Registration
+- ✅ Secure Customer Login
+- ✅ View Profile
+- ✅ Update Profile
+- ✅ Deposit Money
+- ✅ Withdraw Money
+- ✅ Fund Transfer
+- ✅ Check Balance
+- ✅ Mini Statement
+- ✅ Change Password
+- ✅ Search Account
+- ✅ Show All Customers
+- ✅ Show All Accounts
+- ✅ Data Persistence using Serialization
+- ✅ Exception Handling
 
 ---
 
 ## 🛠 Technologies Used
 
-- Java (Core Java)
-- Object-Oriented Programming
-- Java Collections (ArrayList)
+- Core Java
+- Object-Oriented Programming (OOP)
+- Java Collections Framework (ArrayList)
 - File Handling
 - Java Serialization
 - Exception Handling
+- LocalDateTime API
+- Git & GitHub
 
 ---
 
@@ -43,46 +51,48 @@ It allows customers to register, log in, perform banking operations, and store d
 NovaBank
 │
 ├── src
-    └── com
-    |    └── novabank
-    |        ├── model
-    |        ├── service
-    |        ├── storage
-    |        ├── util
-    |        ├── exception
-    |        └── Main.java
-    | 
-    ├── customers.dat
-    ├── accounts.dat
-    ├── transactions.dat
-    └── README.md
+│   └── com
+│       └── novabank
+│           ├── model
+│           ├── service
+│           ├── storage
+│           ├── util
+│           ├── exception
+│           └── Main.java
+│
+├── docs
+│   ├── Screenshots
+│   ├── Weekly Reports
+│   └── UML
+│
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## 💻 Functionalities
+## 🏗 Modules
 
 ### Customer Module
 
-- Register Customer
-- Login
-- Update Profile
-- Change Password
+- Customer Registration
+- Customer Login
+- View & Update Profile
+- Password Management
 
 ### Banking Module
 
 - Deposit Money
 - Withdraw Money
-- Transfer Funds
+- Fund Transfer
 - Check Balance
-- View Mini Statement
+- Mini Statement
 
-### Persistence Module
+### Storage Module
 
-- Save Customers
-- Save Accounts
-- Save Transactions
-- Load Data Automatically
+- Customer Data
+- Account Data
+- Transaction Data
 
 ---
 
@@ -91,20 +101,26 @@ NovaBank
 - Encapsulation
 - Abstraction
 - Composition
+- Classes & Objects
 - Packages
-- Objects and Classes
 
 ---
 
-## ▶️ How to Run
+## 🚀 How to Run
 
-Compile:
+### Clone Repository
+
+```bash
+git clone https://github.com/krashanu6-sudo/NovaBank-Banking-Information-System.git
+```
+
+### Compile
 
 ```bash
 javac @sources.txt
 ```
 
-Run:
+### Run
 
 ```bash
 java com.novabank.Main
@@ -112,29 +128,21 @@ java com.novabank.Main
 
 ---
 
-## 📷 Sample Output
+## 📸 Screenshots
 
-```
-========== NOVABANK ==========
-1. Register Customer
-2. Customer Login
-3. Show All Customers
-4. Show All Accounts
-5. Search Account
-6. Exit
-```
+> Screenshots will be added in future updates.
 
 ---
 
-## 🔮 Future Enhancements
+## 📈 Future Enhancements
 
-- Admin Dashboard
+- Spring Boot Version
 - MySQL Database
-- Spring Boot REST API
-- Web Interface
-- Email Notifications
+- REST APIs
+- Admin Dashboard
+- JavaFX GUI
+- Loan Management
 - Interest Calculation
-- Multiple Account Types
 
 ---
 
@@ -142,6 +150,18 @@ java com.novabank.Main
 
 **Krashanu**
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science & Engineering
 
-Core Java Banking Information System Project
+World College of Technology and Management
+
+---
+
+## ⭐ Project Status
+
+**Version:** v1.0
+
+**Status:** ✅ Completed
+
+---
+
+### If you found this project useful, consider giving it a ⭐ on GitHub.
