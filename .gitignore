@@ -17,3 +17,7 @@ Thumbs.db
 
 # Temporary compilation file
 **/sources.txt
+
+# Temporary files created by the IDE
+*.class
+*.dat
