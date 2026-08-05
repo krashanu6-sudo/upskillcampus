@@ -1,8 +1,0 @@
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\Main.java
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\model\Account.java
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\model\Admin.java
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\model\Customer.java
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\model\Transaction.java
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\service\BankService.java
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\storage\DataStorage.java
-C:\Users\krash\OneDrive\Desktop\NovaBank\src\com\novabank\util\IdGenerator.java
